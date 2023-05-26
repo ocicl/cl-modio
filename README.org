@@ -1,0 +1,9 @@
+* cl-modio
+
+Client library for the mod.io modding database API.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/shinmera/cl-modio.git |
+| commit  | 2fd288a                                      |
+| systems | cl-modio                                     |
+|---------+----------------------------------------------|
