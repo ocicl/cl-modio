@@ -4,6 +4,6 @@ Client library for the mod.io modding database API.
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/cl-modio.git |
-| commit  | 0000000                                      |
+| commit  | b1322bb                                      |
 | systems | cl-modio                                     |
 |---------+----------------------------------------------|
